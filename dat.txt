@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 doan thi kim dat huhu 
+=======
+doan thi kim khoa haha
+>>>>>>> ae49d65aaeba3f9fcf02af1d7b76397d8981e00d
